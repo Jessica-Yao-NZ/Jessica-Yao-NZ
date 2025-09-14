@@ -1,8 +1,9 @@
 # Hi, I'm Jessica Yao 😊
 
-🎓 Master of Business Analytics @ University of Auckland (Graduating Nov 2025)  
-💼 12+ years experience in Financial Research, Compliance & Risk Analytics
-📜 Certified FRM | CAMS | CFA Level I 
+🎓 Master of Business Analytics @ University of Auckland (Graduating Nov 2025)<br>
+💼 12+ years experience in Financial Research, Compliance & Risk Analytics<br>
+📜 Certified FRM | CAMS | CFA Level I
+
 
 ---
 
