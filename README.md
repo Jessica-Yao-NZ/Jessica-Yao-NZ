@@ -16,8 +16,8 @@
 ---
 
 ## 🛠 Tech & Tools
-- **Languages**: SQL (MS SQL Server), Python (pandas, scikit-learn, XGBoost), R (beginner)  
-- **Visualization**: Power BI, Tableau, Matplotlib  
+- **Languages**: SQL (MS SQL Server), Python, R  
+- **Visualization**: Power BI 
 - **Other**: Git/GitHub, Jupyter, Excel  
 
 ---
