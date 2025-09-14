@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jessica Yao 😊
 
-<!--
-**Jessica-Yao-NZ/Jessica-Yao-NZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Business Analytics @ University of Auckland (Graduating Nov 2025)  
+💼 12+ years experience in Financial Research, Compliance & Risk Analytics
+📜 Certified FRM | CAMS | CFA Level I 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured Projects
+- [AdventureWorks SQL Portfolio](#) — Complex queries & optimization with MS SQL Server  
+- [FDI Power BI Dashboard](#) — 2018–2023 FDI trends across major economies  
+- [Bitcoin × USD Clustering](#) — K-means & PCA insights into market regimes  
+- [AML/CFT Analytics](#) — Data-driven compliance & anomaly detection use cases  
+
+---
+
+## 🛠 Tech & Tools
+- **Languages**: SQL (MS SQL Server), Python (pandas, scikit-learn, XGBoost), R (beginner)  
+- **Visualization**: Power BI, Tableau, Matplotlib  
+- **Other**: Git/GitHub, Jupyter, Excel  
+
+---
+
+## 📈 Interests
+- FinTech & Market Risk  
+- AML/CFT Compliance Analytics  
+- Machine Learning for Financial Applications  
+- Cross-border Healthcare & Medical Innovation  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/zhuojunyao)  
+- Email: 
+
+> *I love turning messy data into clear, defensible decisions.*  
+
